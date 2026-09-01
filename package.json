@@ -28,13 +28,13 @@
     "@google-github-actions/actions-utils": "^0.4.8"
   },
   "devDependencies": {
-    "@types/chai": "^4.3.5",
+    "@types/chai": "^5.2.3",
     "@types/mocha": "^10.0.1",
     "@types/node": "^20.4.1",
     "@typescript-eslint/eslint-plugin": "^6.0.0",
     "@typescript-eslint/parser": "^6.0.0",
     "@vercel/ncc": "^0.36.1",
-    "chai": "^4.3.7",
+    "chai": "^6.2.2",
     "eslint": "^8.44.0",
     "eslint-config-prettier": "^8.8.0",
     "eslint-plugin-prettier": "^5.0.0",
